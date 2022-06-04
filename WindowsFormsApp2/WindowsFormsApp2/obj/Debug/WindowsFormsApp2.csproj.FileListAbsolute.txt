@@ -1,0 +1,185 @@
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Guna.UI2.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Twilio.dll
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Twilio.xml
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LogIn.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SignUp.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Auth.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainMenu1.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Product.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stock.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sales.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Payment.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Discount.resources
+C:\Users\Hasna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graphs.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Guna.UI2.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Twilio.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Twilio.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Discount.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graphs.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LogIn.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainMenu.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainMenu1.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Payment.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Product.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sales.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SignUp.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Auth.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stock.resources
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\QRCoder.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.DirectShow.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zxing.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zxing.presentation.dll
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.DirectShow.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zxing.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zxing.presentation.xml
+F:\Project Db\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QRCode.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Guna.UI2.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\QRCoder.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Twilio.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zxing.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zxing.presentation.dll
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Twilio.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zxing.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zxing.presentation.xml
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Discount.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graphs.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LogIn.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainMenu1.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Payment.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Product.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QRCode.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sales.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SignUp.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Auth.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stock.resources
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\adamb\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
